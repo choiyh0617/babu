@@ -16,3 +16,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+#detail > p {
+    margin-bottom: 15px;
+}
